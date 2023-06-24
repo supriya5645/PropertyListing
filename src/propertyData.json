@@ -1,0 +1,144 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "address": "123 Main St",
+      "price": "$200,000",
+      "type": "Apartment",
+      "image": "https://img.freepik.com/premium-photo/land-plot-management-real-estate-concept-with-vacant-land-green-field-available-building-construction-housing-subdivision-residential-area-sale_43780-6335.jpg"
+    },
+    {
+      "id": "2",
+      "address": "456 Elm St",
+      "price": "$300,000",
+      "type": "House",
+      "image": "https://media.istockphoto.com/id/1148812518/photo/concept-of-selling-a-house-a-hand-is-holding-a-model-house-above-green-meadow.jpg?s=612x612&w=0&k=20&c=cz8FLYjnb18uEE-C3o8_XHfx1fCJB3YnnbFZK3Gv0jE="
+    },
+    {
+      "id": "3",
+      "address": "789 Oak St",
+      "price": "$250,000",
+      "type": "Condo",
+      "image": "https://blog.ipleaders.in/wp-content/uploads/2020/09/pmay-1522137214.jpg"
+    },
+    {
+      "id": "4",
+      "address": "567 Pine St",
+      "price": "$350,000",
+      "type": "Townhouse",
+      "image": "https://media.istockphoto.com/id/1148812518/photo/concept-of-selling-a-house-a-hand-is-holding-a-model-house-above-green-meadow.jpg?s=612x612&w=0&k=20&c=cz8FLYjnb18uEE-C3o8_XHfx1fCJB3YnnbFZK3Gv0jE="
+    },
+    {
+      "id": "5",
+      "address": "890 Maple St",
+      "price": "$400,000",
+      "type": "Villa",
+      "image": "https://img.freepik.com/premium-photo/land-plot-management-real-estate-concept-with-vacant-land-green-field-available-building-construction-housing-subdivision-residential-area-sale_43780-6335.jpg"
+    },
+    {
+      "id": "6",
+      "address": "111 Oak St",
+      "price": "$220,000",
+      "type": "Apartment",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "7",
+      "address": "222 Elm St",
+      "price": "$320,000",
+      "type": "House",
+      "image": "https://image.shutterstock.com/image-photo/land-plot-aerial-view-gps-260nw-1767957764.jpg"
+    },
+    {
+      "id": "8",
+      "address": "333 Pine St",
+      "price": "$260,000",
+      "type": "Condo",
+      "image": "https://www.99acres.com/microsite/articles/files/2019/09/plottips.png"
+    },
+    {
+      "id": "9",
+      "address": "444 Maple St",
+      "price": "$380,000",
+      "type": "Townhouse",
+      "image": "https://thumbs.dreamstime.com/z/plot-land-sale-plot-land-sale-d-rendering-125455112.jpg"
+    },
+    {
+      "id": "10",
+      "address": "555 Oak St",
+      "price": "$420,000",
+      "type": "Villa",
+      "image": "https://img.squareyards.com/secondaryPortal/638164027200390654-060423063200320.jpeg"
+    },
+    {
+      "id": "11",
+      "address": "666 Elm St",
+      "price": "$230,000",
+      "type": "Apartment",
+      "image": "https://d27p8o2qkwv41j.cloudfront.net/wp-content/uploads/2022/01/Buying-Plots-Yield-Better-Returns-Than-Investing-in-Apartments-shutterstock_2035101980.jpg"
+    },
+    {
+      "id": "12",
+      "address": "777 Pine St",
+      "price": "$340,000",
+      "type": "House",
+      "image": "https://www.hdfcsales.com/blog/wp-content/uploads/2019/10/hdfc-plot-land-loan.jpg"
+    },
+    {
+      "id": "13",
+      "address": "888 Maple St",
+      "price": "$270,000",
+      "type": "Condo",
+      "image": "https://www.shutterstock.com/image-photo/land-plot-aerial-view-gps-260nw-1976475689.jpg"
+    },
+    {
+      "id": "14",
+      "address": "999 Oak St",
+      "price": "$360,000",
+      "type": "Townhouse",
+      "image": "https://www.shutterstock.com/image-photo/cultivated-land-plot-lot-consist-260nw-1874748088.jpg"
+    },
+    {
+      "id": "15",
+      "address": "1010 Elm St",
+      "price": "$440,000",
+      "type": "Villa",
+      "image": "https://media.istockphoto.com/id/1325686079/photo/land-plot-consist-of-aerial-view-of-greenfield-position-point-and-boundary-line-to-show.jpg?s=612x612&w=0&k=20&c=Q6CRT0_qOT-eC3SOviJkbFAfL0d530nGiCu5lejt7Rc="
+    },
+    {
+      "id": "16",
+      "address": "1111 Oak St",
+      "price": "$240,000",
+      "type": "Apartment",
+      "image": "https://st3.depositphotos.com/34242854/35786/i/600/depositphotos_357863566-stock-photo-aerial-landscape-grasslands-australia.jpg"
+    },
+    {
+      "id": "17",
+      "address": "1212 Elm St",
+      "price": "$360,000",
+      "type": "House",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGVBLdYJ7C3G097iJQkV7JO1OUWcISjEiSrA&usqp=CAU"
+    },
+    {
+      "id": "18",
+      "address": "1313 Pine St",
+      "price": "$280,000",
+      "type": "Condo",
+      "image": "https://www.wavecity.in/wp-content/uploads/2021/07/plots_hero.jpg"
+    },
+    {
+      "id": "19",
+      "address": "1414 Maple St",
+      "price": "$400,000",
+      "type": "Townhouse",
+      "image": "https://media.licdn.com/dms/image/D5612AQF0Z3iKSVjzLQ/article-cover_image-shrink_600_2000/0/1677742252152?e=2147483647&v=beta&t=4Ul4Oh2GmCNnPzsT3tUwY8rXStFkFgwoHIh_-SELBOE"
+    },
+    {
+      "id": "20",
+      "address": "1515 Oak St",
+      "price": "$480,000",
+      "type": "Villa",
+      "image": "https://roofandfloor.thehindu.com/raf/real-estate-blog/wp-content/uploads/sites/14/2018/11/Top-3-Area-to-Buy-Plots-in-Chennai.jpg"
+    }
+  ]
+}

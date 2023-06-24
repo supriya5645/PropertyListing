@@ -1,0 +1,10 @@
+.saved-properties {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+}
+.saved-properties {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    justify-items: center;
+    align-items: center;
+}
