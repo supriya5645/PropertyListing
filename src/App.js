@@ -1,10 +1,5 @@
 import React from "react";
-import {
-  BrowserRouter as Router,
-  Route,
-  Switch,
-  Redirect,
-} from "react-router-dom";
+import { HashRouter, Route, Switch, Redirect } from "react-router-dom";
 import Login from "./Components/Login";
 import Signup from "./Components/Signup";
 import HomePage from "./Components/HomePage";
@@ -13,14 +8,14 @@ import { AuthContext } from "./Components/AuthContext";
 
 const App = () => {
   return (
-    <Router>
+    <HashRouter>
       <Switch>
         <Route exact path="/" component={HomePage} />
         <Route exact path="/login" component={Login} />
         <Route exact path="/signup" component={Signup} />
         <PrivateRoute path="/dashboard" component={Dashboard} />
       </Switch>
-    </Router>
+    </HashRouter>
   );
 };
 
